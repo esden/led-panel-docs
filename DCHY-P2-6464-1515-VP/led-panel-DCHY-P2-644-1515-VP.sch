@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:led-panel-DCHY-P2-644-1515-VP-cache
-EELAYER 29 0
+EELAYER 26 0
 EELAYER END
 $Descr A2 23386 16535
 encoding utf-8
@@ -3625,9 +3625,9 @@ Wire Wire Line
 Text Label 3700 3600 2    50   ~ 10
 ~ROW8-15EN
 Text Label 3700 5400 2    50   ~ 10
-~ROW16-24EN
+~ROW16-23EN
 Text Label 3700 7200 2    50   ~ 10
-~ROW25-32EN
+~ROW24-31EN
 $Comp
 L led-panel-chipset:TC7258E T5
 U 1 1 5D0AF692
@@ -3928,21 +3928,21 @@ Wire Wire Line
 	4800 3500 4900 3500
 Wire Wire Line
 	4800 3600 4900 3600
-Text Label 4900 2900 0    50   ~ 10
-ROW_A9
 Text Label 4900 3000 0    50   ~ 10
-ROW_A10
+ROW_A9
 Text Label 4900 3100 0    50   ~ 10
-ROW_A11
+ROW_A10
 Text Label 4900 3200 0    50   ~ 10
-ROW_A12
+ROW_A11
 Text Label 4900 3300 0    50   ~ 10
-ROW_A13
+ROW_A12
 Text Label 4900 3400 0    50   ~ 10
-ROW_A14
+ROW_A13
 Text Label 4900 3500 0    50   ~ 10
-ROW_A15
+ROW_A14
 Text Label 4900 3600 0    50   ~ 10
+ROW_A15
+Text Label 4900 4700 0    50   ~ 10
 ROW_A16
 Wire Wire Line
 	4800 4700 4900 4700
@@ -3960,21 +3960,21 @@ Wire Wire Line
 	4800 5300 4900 5300
 Wire Wire Line
 	4800 5400 4900 5400
-Text Label 4900 4700 0    50   ~ 10
-ROW_A17
 Text Label 4900 4800 0    50   ~ 10
-ROW_A18
+ROW_A17
 Text Label 4900 4900 0    50   ~ 10
-ROW_A19
+ROW_A18
 Text Label 4900 5000 0    50   ~ 10
-ROW_A20
+ROW_A19
 Text Label 4900 5100 0    50   ~ 10
-ROW_A21
+ROW_A20
 Text Label 4900 5200 0    50   ~ 10
-ROW_A22
+ROW_A21
 Text Label 4900 5300 0    50   ~ 10
-ROW_A23
+ROW_A22
 Text Label 4900 5400 0    50   ~ 10
+ROW_A23
+Text Label 4900 6500 0    50   ~ 10
 ROW_A24
 Wire Wire Line
 	4800 6500 4900 6500
@@ -3992,22 +3992,20 @@ Wire Wire Line
 	4800 7100 4900 7100
 Wire Wire Line
 	4800 7200 4900 7200
-Text Label 4900 6500 0    50   ~ 10
-ROW_A25
 Text Label 4900 6600 0    50   ~ 10
-ROW_A26
+ROW_A25
 Text Label 4900 6700 0    50   ~ 10
-ROW_A27
+ROW_A26
 Text Label 4900 6800 0    50   ~ 10
-ROW_A28
+ROW_A27
 Text Label 4900 6900 0    50   ~ 10
-ROW_A29
+ROW_A28
 Text Label 4900 7000 0    50   ~ 10
-ROW_A30
+ROW_A29
 Text Label 4900 7100 0    50   ~ 10
-ROW_A31
+ROW_A30
 Text Label 4900 7200 0    50   ~ 10
-ROW_A32
+ROW_A31
 Wire Wire Line
 	4800 8700 4900 8700
 Wire Wire Line
@@ -5670,4 +5668,8 @@ Text Label 7000 13700 1    50   ~ 10
 COL_BB1
 Text Label 6900 13700 1    50   ~ 10
 COL_BB0
+Text Label 4900 2900 0    50   ~ 10
+ROW_A8
+Text Label 4900 10500 0    50   ~ 10
+ROW_B8
 $EndSCHEMATC
