@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FM6126
+D 16-Channel Dual-Buffer Constant Current Output Led Driver Chip
+$ENDCMP
+#
+$CMP TC7258E
+D 8-Channel LED Display Line Scanning Blanking Control Drive Chip
+$ENDCMP
+#
+#End Doc Library
