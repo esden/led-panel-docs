@@ -2251,7 +2251,7 @@ $EndComp
 Text Label 6800 10900 2    50   ~ 10
 SCLK0
 Text Label 6800 11000 2    50   ~ 10
-G0
+G1
 Text Label 6800 11100 2    50   ~ 10
 LATCH0
 $Comp
@@ -2649,7 +2649,7 @@ $EndComp
 Text Label 6800 12900 2    50   ~ 10
 SCLK0
 Text Label 6800 13000 2    50   ~ 10
-R0
+R1
 Text Label 6800 13100 2    50   ~ 10
 LATCH0
 $Comp
@@ -3047,7 +3047,7 @@ $EndComp
 Text Label 6800 14900 2    50   ~ 10
 SCLK0
 Text Label 6800 15000 2    50   ~ 10
-B0
+B1
 Text Label 6800 15100 2    50   ~ 10
 LATCH0
 $Comp
@@ -3434,7 +3434,7 @@ A1
 Text Label 3700 1100 2    50   ~ 10
 A0
 Text Label 3700 1300 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 1800 3700 1800
 Text Label 3700 1800 2    50   ~ 10
@@ -3497,7 +3497,7 @@ A1
 Text Label 3700 2900 2    50   ~ 10
 A0
 Text Label 3700 3100 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 3600 3700 3600
 $Comp
@@ -3558,7 +3558,7 @@ A1
 Text Label 3700 4700 2    50   ~ 10
 A0
 Text Label 3700 4900 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 5400 3700 5400
 $Comp
@@ -3619,7 +3619,7 @@ A1
 Text Label 3700 6500 2    50   ~ 10
 A0
 Text Label 3700 6700 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 7200 3700 7200
 Text Label 3700 3600 2    50   ~ 10
@@ -3686,7 +3686,7 @@ A1
 Text Label 3700 8700 2    50   ~ 10
 A0
 Text Label 3700 8900 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 9400 3700 9400
 Text Label 3700 9400 2    50   ~ 10
@@ -3749,7 +3749,7 @@ A1
 Text Label 3700 10500 2    50   ~ 10
 A0
 Text Label 3700 10700 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 11200 3700 11200
 $Comp
@@ -3810,7 +3810,7 @@ A1
 Text Label 3700 12300 2    50   ~ 10
 A0
 Text Label 3700 12500 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 13000 3700 13000
 $Comp
@@ -3871,7 +3871,7 @@ A1
 Text Label 3700 14100 2    50   ~ 10
 A0
 Text Label 3700 14300 2    50   ~ 10
-A3
+A2
 Wire Wire Line
 	3800 14800 3700 14800
 Text Label 3700 11200 2    50   ~ 10
@@ -4138,7 +4138,7 @@ Text Label 4900 14800 0    50   ~ 10
 ROW_B32
 Wire Wire Line
 	6900 2050 6900 1950
-Text Label 6900 1950 1    50   ~ 0
+Text Label 6900 1950 1    50   ~ 10
 COL_GA0
 Wire Wire Line
 	7000 2050 7000 1950
@@ -4170,39 +4170,39 @@ Wire Wire Line
 	8300 2050 8300 1950
 Wire Wire Line
 	8400 2050 8400 1950
-Text Label 7000 1950 1    50   ~ 0
+Text Label 7000 1950 1    50   ~ 10
 COL_GA1
-Text Label 7100 1950 1    50   ~ 0
+Text Label 7100 1950 1    50   ~ 10
 COL_GA2
-Text Label 7200 1950 1    50   ~ 0
+Text Label 7200 1950 1    50   ~ 10
 COL_GA3
-Text Label 7300 1950 1    50   ~ 0
+Text Label 7300 1950 1    50   ~ 10
 COL_GA4
-Text Label 7400 1950 1    50   ~ 0
+Text Label 7400 1950 1    50   ~ 10
 COL_GA5
-Text Label 7500 1950 1    50   ~ 0
+Text Label 7500 1950 1    50   ~ 10
 COL_GA6
-Text Label 7600 1950 1    50   ~ 0
+Text Label 7600 1950 1    50   ~ 10
 COL_GA7
-Text Label 7700 1950 1    50   ~ 0
+Text Label 7700 1950 1    50   ~ 10
 COL_GA8
-Text Label 7800 1950 1    50   ~ 0
+Text Label 7800 1950 1    50   ~ 10
 COL_GA9
-Text Label 7900 1950 1    50   ~ 0
+Text Label 7900 1950 1    50   ~ 10
 COL_GA10
-Text Label 8000 1950 1    50   ~ 0
+Text Label 8000 1950 1    50   ~ 10
 COL_GA11
-Text Label 8100 1950 1    50   ~ 0
+Text Label 8100 1950 1    50   ~ 10
 COL_GA12
-Text Label 8200 1950 1    50   ~ 0
+Text Label 8200 1950 1    50   ~ 10
 COL_GA13
-Text Label 8300 1950 1    50   ~ 0
+Text Label 8300 1950 1    50   ~ 10
 COL_GA14
-Text Label 8400 1950 1    50   ~ 0
+Text Label 8400 1950 1    50   ~ 10
 COL_GA15
 Wire Wire Line
 	9300 2050 9300 1950
-Text Label 9300 1950 1    50   ~ 0
+Text Label 9300 1950 1    50   ~ 10
 COL_GA16
 Wire Wire Line
 	9400 2050 9400 1950
@@ -4234,39 +4234,39 @@ Wire Wire Line
 	10700 2050 10700 1950
 Wire Wire Line
 	10800 2050 10800 1950
-Text Label 9400 1950 1    50   ~ 0
+Text Label 9400 1950 1    50   ~ 10
 COL_GA17
-Text Label 9500 1950 1    50   ~ 0
+Text Label 9500 1950 1    50   ~ 10
 COL_GA18
-Text Label 9600 1950 1    50   ~ 0
+Text Label 9600 1950 1    50   ~ 10
 COL_GA19
-Text Label 9700 1950 1    50   ~ 0
+Text Label 9700 1950 1    50   ~ 10
 COL_GA20
-Text Label 9800 1950 1    50   ~ 0
+Text Label 9800 1950 1    50   ~ 10
 COL_GA21
-Text Label 9900 1950 1    50   ~ 0
+Text Label 9900 1950 1    50   ~ 10
 COL_GA22
-Text Label 10000 1950 1    50   ~ 0
+Text Label 10000 1950 1    50   ~ 10
 COL_GA23
-Text Label 10100 1950 1    50   ~ 0
+Text Label 10100 1950 1    50   ~ 10
 COL_GA24
-Text Label 10200 1950 1    50   ~ 0
+Text Label 10200 1950 1    50   ~ 10
 COL_GA25
-Text Label 10300 1950 1    50   ~ 0
+Text Label 10300 1950 1    50   ~ 10
 COL_GA26
-Text Label 10400 1950 1    50   ~ 0
+Text Label 10400 1950 1    50   ~ 10
 COL_GA27
-Text Label 10500 1950 1    50   ~ 0
+Text Label 10500 1950 1    50   ~ 10
 COL_GA28
-Text Label 10600 1950 1    50   ~ 0
+Text Label 10600 1950 1    50   ~ 10
 COL_GA29
-Text Label 10700 1950 1    50   ~ 0
+Text Label 10700 1950 1    50   ~ 10
 COL_GA30
-Text Label 10800 1950 1    50   ~ 0
+Text Label 10800 1950 1    50   ~ 10
 COL_GA31
 Wire Wire Line
 	11700 2050 11700 1950
-Text Label 11700 1950 1    50   ~ 0
+Text Label 11700 1950 1    50   ~ 10
 COL_GA32
 Wire Wire Line
 	11800 2050 11800 1950
@@ -4298,39 +4298,39 @@ Wire Wire Line
 	13100 2050 13100 1950
 Wire Wire Line
 	13200 2050 13200 1950
-Text Label 11800 1950 1    50   ~ 0
+Text Label 11800 1950 1    50   ~ 10
 COL_GA33
-Text Label 11900 1950 1    50   ~ 0
+Text Label 11900 1950 1    50   ~ 10
 COL_GA34
-Text Label 12000 1950 1    50   ~ 0
+Text Label 12000 1950 1    50   ~ 10
 COL_GA35
-Text Label 12100 1950 1    50   ~ 0
+Text Label 12100 1950 1    50   ~ 10
 COL_GA36
-Text Label 12200 1950 1    50   ~ 0
+Text Label 12200 1950 1    50   ~ 10
 COL_GA37
-Text Label 12300 1950 1    50   ~ 0
+Text Label 12300 1950 1    50   ~ 10
 COL_GA38
-Text Label 12400 1950 1    50   ~ 0
+Text Label 12400 1950 1    50   ~ 10
 COL_GA39
-Text Label 12500 1950 1    50   ~ 0
+Text Label 12500 1950 1    50   ~ 10
 COL_GA40
-Text Label 12600 1950 1    50   ~ 0
+Text Label 12600 1950 1    50   ~ 10
 COL_GA41
-Text Label 12700 1950 1    50   ~ 0
+Text Label 12700 1950 1    50   ~ 10
 COL_GA42
-Text Label 12800 1950 1    50   ~ 0
+Text Label 12800 1950 1    50   ~ 10
 COL_GA43
-Text Label 12900 1950 1    50   ~ 0
+Text Label 12900 1950 1    50   ~ 10
 COL_GA44
-Text Label 13000 1950 1    50   ~ 0
+Text Label 13000 1950 1    50   ~ 10
 COL_GA45
-Text Label 13100 1950 1    50   ~ 0
+Text Label 13100 1950 1    50   ~ 10
 COL_GA46
-Text Label 13200 1950 1    50   ~ 0
+Text Label 13200 1950 1    50   ~ 10
 COL_GA47
 Wire Wire Line
 	14100 2050 14100 1950
-Text Label 14100 1950 1    50   ~ 0
+Text Label 14100 1950 1    50   ~ 10
 COL_GA48
 Wire Wire Line
 	14200 2050 14200 1950
@@ -4362,39 +4362,39 @@ Wire Wire Line
 	15500 2050 15500 1950
 Wire Wire Line
 	15600 2050 15600 1950
-Text Label 14200 1950 1    50   ~ 0
+Text Label 14200 1950 1    50   ~ 10
 COL_GA49
-Text Label 14300 1950 1    50   ~ 0
+Text Label 14300 1950 1    50   ~ 10
 COL_GA50
-Text Label 14400 1950 1    50   ~ 0
+Text Label 14400 1950 1    50   ~ 10
 COL_GA51
-Text Label 14500 1950 1    50   ~ 0
+Text Label 14500 1950 1    50   ~ 10
 COL_GA52
-Text Label 14600 1950 1    50   ~ 0
+Text Label 14600 1950 1    50   ~ 10
 COL_GA53
-Text Label 14700 1950 1    50   ~ 0
+Text Label 14700 1950 1    50   ~ 10
 COL_GA54
-Text Label 14800 1950 1    50   ~ 0
+Text Label 14800 1950 1    50   ~ 10
 COL_GA55
-Text Label 14900 1950 1    50   ~ 0
+Text Label 14900 1950 1    50   ~ 10
 COL_GA56
-Text Label 15000 1950 1    50   ~ 0
+Text Label 15000 1950 1    50   ~ 10
 COL_GA57
-Text Label 15100 1950 1    50   ~ 0
+Text Label 15100 1950 1    50   ~ 10
 COL_GA58
-Text Label 15200 1950 1    50   ~ 0
+Text Label 15200 1950 1    50   ~ 10
 COL_GA59
-Text Label 15300 1950 1    50   ~ 0
+Text Label 15300 1950 1    50   ~ 10
 COL_GA60
-Text Label 15400 1950 1    50   ~ 0
+Text Label 15400 1950 1    50   ~ 10
 COL_GA61
-Text Label 15500 1950 1    50   ~ 0
+Text Label 15500 1950 1    50   ~ 10
 COL_GA62
-Text Label 15600 1950 1    50   ~ 0
+Text Label 15600 1950 1    50   ~ 10
 COL_GA63
 Wire Wire Line
 	6900 4050 6900 3950
-Text Label 6900 3950 1    50   ~ 0
+Text Label 6900 3950 1    50   ~ 10
 COL_RA0
 Wire Wire Line
 	7000 4050 7000 3950
@@ -4426,39 +4426,39 @@ Wire Wire Line
 	8300 4050 8300 3950
 Wire Wire Line
 	8400 4050 8400 3950
-Text Label 7000 3950 1    50   ~ 0
+Text Label 7000 3950 1    50   ~ 10
 COL_RA1
-Text Label 7100 3950 1    50   ~ 0
+Text Label 7100 3950 1    50   ~ 10
 COL_RA2
-Text Label 7200 3950 1    50   ~ 0
+Text Label 7200 3950 1    50   ~ 10
 COL_RA3
-Text Label 7300 3950 1    50   ~ 0
+Text Label 7300 3950 1    50   ~ 10
 COL_RA4
-Text Label 7400 3950 1    50   ~ 0
+Text Label 7400 3950 1    50   ~ 10
 COL_RA5
-Text Label 7500 3950 1    50   ~ 0
+Text Label 7500 3950 1    50   ~ 10
 COL_RA6
-Text Label 7600 3950 1    50   ~ 0
+Text Label 7600 3950 1    50   ~ 10
 COL_RA7
-Text Label 7700 3950 1    50   ~ 0
+Text Label 7700 3950 1    50   ~ 10
 COL_RA8
-Text Label 7800 3950 1    50   ~ 0
+Text Label 7800 3950 1    50   ~ 10
 COL_RA9
-Text Label 7900 3950 1    50   ~ 0
+Text Label 7900 3950 1    50   ~ 10
 COL_RA10
-Text Label 8000 3950 1    50   ~ 0
+Text Label 8000 3950 1    50   ~ 10
 COL_RA11
-Text Label 8100 3950 1    50   ~ 0
+Text Label 8100 3950 1    50   ~ 10
 COL_RA12
-Text Label 8200 3950 1    50   ~ 0
+Text Label 8200 3950 1    50   ~ 10
 COL_RA13
-Text Label 8300 3950 1    50   ~ 0
+Text Label 8300 3950 1    50   ~ 10
 COL_RA14
-Text Label 8400 3950 1    50   ~ 0
+Text Label 8400 3950 1    50   ~ 10
 COL_RA15
 Wire Wire Line
 	9300 4050 9300 3950
-Text Label 9300 3950 1    50   ~ 0
+Text Label 9300 3950 1    50   ~ 10
 COL_RA16
 Wire Wire Line
 	9400 4050 9400 3950
@@ -4490,39 +4490,39 @@ Wire Wire Line
 	10700 4050 10700 3950
 Wire Wire Line
 	10800 4050 10800 3950
-Text Label 9400 3950 1    50   ~ 0
+Text Label 9400 3950 1    50   ~ 10
 COL_RA17
-Text Label 9500 3950 1    50   ~ 0
+Text Label 9500 3950 1    50   ~ 10
 COL_RA18
-Text Label 9600 3950 1    50   ~ 0
+Text Label 9600 3950 1    50   ~ 10
 COL_RA19
-Text Label 9700 3950 1    50   ~ 0
+Text Label 9700 3950 1    50   ~ 10
 COL_RA20
-Text Label 9800 3950 1    50   ~ 0
+Text Label 9800 3950 1    50   ~ 10
 COL_RA21
-Text Label 9900 3950 1    50   ~ 0
+Text Label 9900 3950 1    50   ~ 10
 COL_RA22
-Text Label 10000 3950 1    50   ~ 0
+Text Label 10000 3950 1    50   ~ 10
 COL_RA23
-Text Label 10100 3950 1    50   ~ 0
+Text Label 10100 3950 1    50   ~ 10
 COL_RA24
-Text Label 10200 3950 1    50   ~ 0
+Text Label 10200 3950 1    50   ~ 10
 COL_RA25
-Text Label 10300 3950 1    50   ~ 0
+Text Label 10300 3950 1    50   ~ 10
 COL_RA26
-Text Label 10400 3950 1    50   ~ 0
+Text Label 10400 3950 1    50   ~ 10
 COL_RA27
-Text Label 10500 3950 1    50   ~ 0
+Text Label 10500 3950 1    50   ~ 10
 COL_RA28
-Text Label 10600 3950 1    50   ~ 0
+Text Label 10600 3950 1    50   ~ 10
 COL_RA29
-Text Label 10700 3950 1    50   ~ 0
+Text Label 10700 3950 1    50   ~ 10
 COL_RA30
-Text Label 10800 3950 1    50   ~ 0
+Text Label 10800 3950 1    50   ~ 10
 COL_RA31
 Wire Wire Line
 	11700 4050 11700 3950
-Text Label 11700 3950 1    50   ~ 0
+Text Label 11700 3950 1    50   ~ 10
 COL_RA32
 Wire Wire Line
 	11800 4050 11800 3950
@@ -4554,39 +4554,39 @@ Wire Wire Line
 	13100 4050 13100 3950
 Wire Wire Line
 	13200 4050 13200 3950
-Text Label 11800 3950 1    50   ~ 0
+Text Label 11800 3950 1    50   ~ 10
 COL_RA33
-Text Label 11900 3950 1    50   ~ 0
+Text Label 11900 3950 1    50   ~ 10
 COL_RA34
-Text Label 12000 3950 1    50   ~ 0
+Text Label 12000 3950 1    50   ~ 10
 COL_RA35
-Text Label 12100 3950 1    50   ~ 0
+Text Label 12100 3950 1    50   ~ 10
 COL_RA36
-Text Label 12200 3950 1    50   ~ 0
+Text Label 12200 3950 1    50   ~ 10
 COL_RA37
-Text Label 12300 3950 1    50   ~ 0
+Text Label 12300 3950 1    50   ~ 10
 COL_RA38
-Text Label 12400 3950 1    50   ~ 0
+Text Label 12400 3950 1    50   ~ 10
 COL_RA39
-Text Label 12500 3950 1    50   ~ 0
+Text Label 12500 3950 1    50   ~ 10
 COL_RA40
-Text Label 12600 3950 1    50   ~ 0
+Text Label 12600 3950 1    50   ~ 10
 COL_RA41
-Text Label 12700 3950 1    50   ~ 0
+Text Label 12700 3950 1    50   ~ 10
 COL_RA42
-Text Label 12800 3950 1    50   ~ 0
+Text Label 12800 3950 1    50   ~ 10
 COL_RA43
-Text Label 12900 3950 1    50   ~ 0
+Text Label 12900 3950 1    50   ~ 10
 COL_RA44
-Text Label 13000 3950 1    50   ~ 0
+Text Label 13000 3950 1    50   ~ 10
 COL_RA45
-Text Label 13100 3950 1    50   ~ 0
+Text Label 13100 3950 1    50   ~ 10
 COL_RA46
-Text Label 13200 3950 1    50   ~ 0
+Text Label 13200 3950 1    50   ~ 10
 COL_RA47
 Wire Wire Line
 	14100 4050 14100 3950
-Text Label 14100 3950 1    50   ~ 0
+Text Label 14100 3950 1    50   ~ 10
 COL_RA48
 Wire Wire Line
 	14200 4050 14200 3950
@@ -4618,39 +4618,39 @@ Wire Wire Line
 	15500 4050 15500 3950
 Wire Wire Line
 	15600 4050 15600 3950
-Text Label 14200 3950 1    50   ~ 0
+Text Label 14200 3950 1    50   ~ 10
 COL_RA49
-Text Label 14300 3950 1    50   ~ 0
+Text Label 14300 3950 1    50   ~ 10
 COL_RA50
-Text Label 14400 3950 1    50   ~ 0
+Text Label 14400 3950 1    50   ~ 10
 COL_RA51
-Text Label 14500 3950 1    50   ~ 0
+Text Label 14500 3950 1    50   ~ 10
 COL_RA52
-Text Label 14600 3950 1    50   ~ 0
+Text Label 14600 3950 1    50   ~ 10
 COL_RA53
-Text Label 14700 3950 1    50   ~ 0
+Text Label 14700 3950 1    50   ~ 10
 COL_RA54
-Text Label 14800 3950 1    50   ~ 0
+Text Label 14800 3950 1    50   ~ 10
 COL_RA55
-Text Label 14900 3950 1    50   ~ 0
+Text Label 14900 3950 1    50   ~ 10
 COL_RA56
-Text Label 15000 3950 1    50   ~ 0
+Text Label 15000 3950 1    50   ~ 10
 COL_RA57
-Text Label 15100 3950 1    50   ~ 0
+Text Label 15100 3950 1    50   ~ 10
 COL_RA58
-Text Label 15200 3950 1    50   ~ 0
+Text Label 15200 3950 1    50   ~ 10
 COL_RA59
-Text Label 15300 3950 1    50   ~ 0
+Text Label 15300 3950 1    50   ~ 10
 COL_RA60
-Text Label 15400 3950 1    50   ~ 0
+Text Label 15400 3950 1    50   ~ 10
 COL_RA61
-Text Label 15500 3950 1    50   ~ 0
+Text Label 15500 3950 1    50   ~ 10
 COL_RA62
-Text Label 15600 3950 1    50   ~ 0
+Text Label 15600 3950 1    50   ~ 10
 COL_RA63
 Wire Wire Line
 	6900 6050 6900 5950
-Text Label 6900 5950 1    50   ~ 0
+Text Label 6900 5950 1    50   ~ 10
 COL_BA0
 Wire Wire Line
 	7000 6050 7000 5950
@@ -4682,39 +4682,39 @@ Wire Wire Line
 	8300 6050 8300 5950
 Wire Wire Line
 	8400 6050 8400 5950
-Text Label 7000 5950 1    50   ~ 0
+Text Label 7000 5950 1    50   ~ 10
 COL_BA1
-Text Label 7100 5950 1    50   ~ 0
+Text Label 7100 5950 1    50   ~ 10
 COL_BA2
-Text Label 7200 5950 1    50   ~ 0
+Text Label 7200 5950 1    50   ~ 10
 COL_BA3
-Text Label 7300 5950 1    50   ~ 0
+Text Label 7300 5950 1    50   ~ 10
 COL_BA4
-Text Label 7400 5950 1    50   ~ 0
+Text Label 7400 5950 1    50   ~ 10
 COL_BA5
-Text Label 7500 5950 1    50   ~ 0
+Text Label 7500 5950 1    50   ~ 10
 COL_BA6
-Text Label 7600 5950 1    50   ~ 0
+Text Label 7600 5950 1    50   ~ 10
 COL_BA7
-Text Label 7700 5950 1    50   ~ 0
+Text Label 7700 5950 1    50   ~ 10
 COL_BA8
-Text Label 7800 5950 1    50   ~ 0
+Text Label 7800 5950 1    50   ~ 10
 COL_BA9
-Text Label 7900 5950 1    50   ~ 0
+Text Label 7900 5950 1    50   ~ 10
 COL_BA10
-Text Label 8000 5950 1    50   ~ 0
+Text Label 8000 5950 1    50   ~ 10
 COL_BA11
-Text Label 8100 5950 1    50   ~ 0
+Text Label 8100 5950 1    50   ~ 10
 COL_BA12
-Text Label 8200 5950 1    50   ~ 0
+Text Label 8200 5950 1    50   ~ 10
 COL_BA13
-Text Label 8300 5950 1    50   ~ 0
+Text Label 8300 5950 1    50   ~ 10
 COL_BA14
-Text Label 8400 5950 1    50   ~ 0
+Text Label 8400 5950 1    50   ~ 10
 COL_BA15
 Wire Wire Line
 	9300 6050 9300 5950
-Text Label 9300 5950 1    50   ~ 0
+Text Label 9300 5950 1    50   ~ 10
 COL_BA16
 Wire Wire Line
 	9400 6050 9400 5950
@@ -4746,39 +4746,39 @@ Wire Wire Line
 	10700 6050 10700 5950
 Wire Wire Line
 	10800 6050 10800 5950
-Text Label 9400 5950 1    50   ~ 0
+Text Label 9400 5950 1    50   ~ 10
 COL_BA17
-Text Label 9500 5950 1    50   ~ 0
+Text Label 9500 5950 1    50   ~ 10
 COL_BA18
-Text Label 9600 5950 1    50   ~ 0
+Text Label 9600 5950 1    50   ~ 10
 COL_BA19
-Text Label 9700 5950 1    50   ~ 0
+Text Label 9700 5950 1    50   ~ 10
 COL_BA20
-Text Label 9800 5950 1    50   ~ 0
+Text Label 9800 5950 1    50   ~ 10
 COL_BA21
-Text Label 9900 5950 1    50   ~ 0
+Text Label 9900 5950 1    50   ~ 10
 COL_BA22
-Text Label 10000 5950 1    50   ~ 0
+Text Label 10000 5950 1    50   ~ 10
 COL_BA23
-Text Label 10100 5950 1    50   ~ 0
+Text Label 10100 5950 1    50   ~ 10
 COL_BA24
-Text Label 10200 5950 1    50   ~ 0
+Text Label 10200 5950 1    50   ~ 10
 COL_BA25
-Text Label 10300 5950 1    50   ~ 0
+Text Label 10300 5950 1    50   ~ 10
 COL_BA26
-Text Label 10400 5950 1    50   ~ 0
+Text Label 10400 5950 1    50   ~ 10
 COL_BA27
-Text Label 10500 5950 1    50   ~ 0
+Text Label 10500 5950 1    50   ~ 10
 COL_BA28
-Text Label 10600 5950 1    50   ~ 0
+Text Label 10600 5950 1    50   ~ 10
 COL_BA29
-Text Label 10700 5950 1    50   ~ 0
+Text Label 10700 5950 1    50   ~ 10
 COL_BA30
-Text Label 10800 5950 1    50   ~ 0
+Text Label 10800 5950 1    50   ~ 10
 COL_BA31
 Wire Wire Line
 	11700 6050 11700 5950
-Text Label 11700 5950 1    50   ~ 0
+Text Label 11700 5950 1    50   ~ 10
 COL_BA32
 Wire Wire Line
 	11800 6050 11800 5950
@@ -4810,39 +4810,39 @@ Wire Wire Line
 	13100 6050 13100 5950
 Wire Wire Line
 	13200 6050 13200 5950
-Text Label 11800 5950 1    50   ~ 0
+Text Label 11800 5950 1    50   ~ 10
 COL_BA33
-Text Label 11900 5950 1    50   ~ 0
+Text Label 11900 5950 1    50   ~ 10
 COL_BA34
-Text Label 12000 5950 1    50   ~ 0
+Text Label 12000 5950 1    50   ~ 10
 COL_BA35
-Text Label 12100 5950 1    50   ~ 0
+Text Label 12100 5950 1    50   ~ 10
 COL_BA36
-Text Label 12200 5950 1    50   ~ 0
+Text Label 12200 5950 1    50   ~ 10
 COL_BA37
-Text Label 12300 5950 1    50   ~ 0
+Text Label 12300 5950 1    50   ~ 10
 COL_BA38
-Text Label 12400 5950 1    50   ~ 0
+Text Label 12400 5950 1    50   ~ 10
 COL_BA39
-Text Label 12500 5950 1    50   ~ 0
+Text Label 12500 5950 1    50   ~ 10
 COL_BA40
-Text Label 12600 5950 1    50   ~ 0
+Text Label 12600 5950 1    50   ~ 10
 COL_BA41
-Text Label 12700 5950 1    50   ~ 0
+Text Label 12700 5950 1    50   ~ 10
 COL_BA42
-Text Label 12800 5950 1    50   ~ 0
+Text Label 12800 5950 1    50   ~ 10
 COL_BA43
-Text Label 12900 5950 1    50   ~ 0
+Text Label 12900 5950 1    50   ~ 10
 COL_BA44
-Text Label 13000 5950 1    50   ~ 0
+Text Label 13000 5950 1    50   ~ 10
 COL_BA45
-Text Label 13100 5950 1    50   ~ 0
+Text Label 13100 5950 1    50   ~ 10
 COL_BA46
-Text Label 13200 5950 1    50   ~ 0
+Text Label 13200 5950 1    50   ~ 10
 COL_BA47
 Wire Wire Line
 	14100 6050 14100 5950
-Text Label 14100 5950 1    50   ~ 0
+Text Label 14100 5950 1    50   ~ 10
 COL_BA48
 Wire Wire Line
 	14200 6050 14200 5950
@@ -4874,39 +4874,39 @@ Wire Wire Line
 	15500 6050 15500 5950
 Wire Wire Line
 	15600 6050 15600 5950
-Text Label 14200 5950 1    50   ~ 0
+Text Label 14200 5950 1    50   ~ 10
 COL_BA49
-Text Label 14300 5950 1    50   ~ 0
+Text Label 14300 5950 1    50   ~ 10
 COL_BA50
-Text Label 14400 5950 1    50   ~ 0
+Text Label 14400 5950 1    50   ~ 10
 COL_BA51
-Text Label 14500 5950 1    50   ~ 0
+Text Label 14500 5950 1    50   ~ 10
 COL_BA52
-Text Label 14600 5950 1    50   ~ 0
+Text Label 14600 5950 1    50   ~ 10
 COL_BA53
-Text Label 14700 5950 1    50   ~ 0
+Text Label 14700 5950 1    50   ~ 10
 COL_BA54
-Text Label 14800 5950 1    50   ~ 0
+Text Label 14800 5950 1    50   ~ 10
 COL_BA55
-Text Label 14900 5950 1    50   ~ 0
+Text Label 14900 5950 1    50   ~ 10
 COL_BA56
-Text Label 15000 5950 1    50   ~ 0
+Text Label 15000 5950 1    50   ~ 10
 COL_BA57
-Text Label 15100 5950 1    50   ~ 0
+Text Label 15100 5950 1    50   ~ 10
 COL_BA58
-Text Label 15200 5950 1    50   ~ 0
+Text Label 15200 5950 1    50   ~ 10
 COL_BA59
-Text Label 15300 5950 1    50   ~ 0
+Text Label 15300 5950 1    50   ~ 10
 COL_BA60
-Text Label 15400 5950 1    50   ~ 0
+Text Label 15400 5950 1    50   ~ 10
 COL_BA61
-Text Label 15500 5950 1    50   ~ 0
+Text Label 15500 5950 1    50   ~ 10
 COL_BA62
-Text Label 15600 5950 1    50   ~ 0
+Text Label 15600 5950 1    50   ~ 10
 COL_BA63
 Wire Wire Line
 	6900 9800 6900 9700
-Text Label 6900 9700 1    50   ~ 0
+Text Label 6900 9700 1    50   ~ 10
 COL_GB0
 Wire Wire Line
 	7000 9800 7000 9700
@@ -4938,39 +4938,39 @@ Wire Wire Line
 	8300 9800 8300 9700
 Wire Wire Line
 	8400 9800 8400 9700
-Text Label 7000 9700 1    50   ~ 0
+Text Label 7000 9700 1    50   ~ 10
 COL_GB1
-Text Label 7100 9700 1    50   ~ 0
+Text Label 7100 9700 1    50   ~ 10
 COL_GB2
-Text Label 7200 9700 1    50   ~ 0
+Text Label 7200 9700 1    50   ~ 10
 COL_GB3
-Text Label 7300 9700 1    50   ~ 0
+Text Label 7300 9700 1    50   ~ 10
 COL_GB4
-Text Label 7400 9700 1    50   ~ 0
+Text Label 7400 9700 1    50   ~ 10
 COL_GB5
-Text Label 7500 9700 1    50   ~ 0
+Text Label 7500 9700 1    50   ~ 10
 COL_GB6
-Text Label 7600 9700 1    50   ~ 0
+Text Label 7600 9700 1    50   ~ 10
 COL_GB7
-Text Label 7700 9700 1    50   ~ 0
+Text Label 7700 9700 1    50   ~ 10
 COL_GB8
-Text Label 7800 9700 1    50   ~ 0
+Text Label 7800 9700 1    50   ~ 10
 COL_GB9
-Text Label 7900 9700 1    50   ~ 0
+Text Label 7900 9700 1    50   ~ 10
 COL_GB10
-Text Label 8000 9700 1    50   ~ 0
+Text Label 8000 9700 1    50   ~ 10
 COL_GB11
-Text Label 8100 9700 1    50   ~ 0
+Text Label 8100 9700 1    50   ~ 10
 COL_GB12
-Text Label 8200 9700 1    50   ~ 0
+Text Label 8200 9700 1    50   ~ 10
 COL_GB13
-Text Label 8300 9700 1    50   ~ 0
+Text Label 8300 9700 1    50   ~ 10
 COL_GB14
-Text Label 8400 9700 1    50   ~ 0
+Text Label 8400 9700 1    50   ~ 10
 COL_GB15
 Wire Wire Line
 	9300 9800 9300 9700
-Text Label 9300 9700 1    50   ~ 0
+Text Label 9300 9700 1    50   ~ 10
 COL_GB16
 Wire Wire Line
 	9400 9800 9400 9700
@@ -5002,39 +5002,39 @@ Wire Wire Line
 	10700 9800 10700 9700
 Wire Wire Line
 	10800 9800 10800 9700
-Text Label 9400 9700 1    50   ~ 0
+Text Label 9400 9700 1    50   ~ 10
 COL_GB17
-Text Label 9500 9700 1    50   ~ 0
+Text Label 9500 9700 1    50   ~ 10
 COL_GB18
-Text Label 9600 9700 1    50   ~ 0
+Text Label 9600 9700 1    50   ~ 10
 COL_GB19
-Text Label 9700 9700 1    50   ~ 0
+Text Label 9700 9700 1    50   ~ 10
 COL_GB20
-Text Label 9800 9700 1    50   ~ 0
+Text Label 9800 9700 1    50   ~ 10
 COL_GB21
-Text Label 9900 9700 1    50   ~ 0
+Text Label 9900 9700 1    50   ~ 10
 COL_GB22
-Text Label 10000 9700 1    50   ~ 0
+Text Label 10000 9700 1    50   ~ 10
 COL_GB23
-Text Label 10100 9700 1    50   ~ 0
+Text Label 10100 9700 1    50   ~ 10
 COL_GB24
-Text Label 10200 9700 1    50   ~ 0
+Text Label 10200 9700 1    50   ~ 10
 COL_GB25
-Text Label 10300 9700 1    50   ~ 0
+Text Label 10300 9700 1    50   ~ 10
 COL_GB26
-Text Label 10400 9700 1    50   ~ 0
+Text Label 10400 9700 1    50   ~ 10
 COL_GB27
-Text Label 10500 9700 1    50   ~ 0
+Text Label 10500 9700 1    50   ~ 10
 COL_GB28
-Text Label 10600 9700 1    50   ~ 0
+Text Label 10600 9700 1    50   ~ 10
 COL_GB29
-Text Label 10700 9700 1    50   ~ 0
+Text Label 10700 9700 1    50   ~ 10
 COL_GB30
-Text Label 10800 9700 1    50   ~ 0
+Text Label 10800 9700 1    50   ~ 10
 COL_GB31
 Wire Wire Line
 	11700 9800 11700 9700
-Text Label 11700 9700 1    50   ~ 0
+Text Label 11700 9700 1    50   ~ 10
 COL_GB32
 Wire Wire Line
 	11800 9800 11800 9700
@@ -5066,39 +5066,39 @@ Wire Wire Line
 	13100 9800 13100 9700
 Wire Wire Line
 	13200 9800 13200 9700
-Text Label 11800 9700 1    50   ~ 0
+Text Label 11800 9700 1    50   ~ 10
 COL_GB33
-Text Label 11900 9700 1    50   ~ 0
+Text Label 11900 9700 1    50   ~ 10
 COL_GB34
-Text Label 12000 9700 1    50   ~ 0
+Text Label 12000 9700 1    50   ~ 10
 COL_GB35
-Text Label 12100 9700 1    50   ~ 0
+Text Label 12100 9700 1    50   ~ 10
 COL_GB36
-Text Label 12200 9700 1    50   ~ 0
+Text Label 12200 9700 1    50   ~ 10
 COL_GB37
-Text Label 12300 9700 1    50   ~ 0
+Text Label 12300 9700 1    50   ~ 10
 COL_GB38
-Text Label 12400 9700 1    50   ~ 0
+Text Label 12400 9700 1    50   ~ 10
 COL_GB39
-Text Label 12500 9700 1    50   ~ 0
+Text Label 12500 9700 1    50   ~ 10
 COL_GB40
-Text Label 12600 9700 1    50   ~ 0
+Text Label 12600 9700 1    50   ~ 10
 COL_GB41
-Text Label 12700 9700 1    50   ~ 0
+Text Label 12700 9700 1    50   ~ 10
 COL_GB42
-Text Label 12800 9700 1    50   ~ 0
+Text Label 12800 9700 1    50   ~ 10
 COL_GB43
-Text Label 12900 9700 1    50   ~ 0
+Text Label 12900 9700 1    50   ~ 10
 COL_GB44
-Text Label 13000 9700 1    50   ~ 0
+Text Label 13000 9700 1    50   ~ 10
 COL_GB45
-Text Label 13100 9700 1    50   ~ 0
+Text Label 13100 9700 1    50   ~ 10
 COL_GB46
-Text Label 13200 9700 1    50   ~ 0
+Text Label 13200 9700 1    50   ~ 10
 COL_GB47
 Wire Wire Line
 	14100 9800 14100 9700
-Text Label 14100 9700 1    50   ~ 0
+Text Label 14100 9700 1    50   ~ 10
 COL_GB48
 Wire Wire Line
 	14200 9800 14200 9700
@@ -5130,39 +5130,39 @@ Wire Wire Line
 	15500 9800 15500 9700
 Wire Wire Line
 	15600 9800 15600 9700
-Text Label 14200 9700 1    50   ~ 0
+Text Label 14200 9700 1    50   ~ 10
 COL_GB49
-Text Label 14300 9700 1    50   ~ 0
+Text Label 14300 9700 1    50   ~ 10
 COL_GB50
-Text Label 14400 9700 1    50   ~ 0
+Text Label 14400 9700 1    50   ~ 10
 COL_GB51
-Text Label 14500 9700 1    50   ~ 0
+Text Label 14500 9700 1    50   ~ 10
 COL_GB52
-Text Label 14600 9700 1    50   ~ 0
+Text Label 14600 9700 1    50   ~ 10
 COL_GB53
-Text Label 14700 9700 1    50   ~ 0
+Text Label 14700 9700 1    50   ~ 10
 COL_GB54
-Text Label 14800 9700 1    50   ~ 0
+Text Label 14800 9700 1    50   ~ 10
 COL_GB55
-Text Label 14900 9700 1    50   ~ 0
+Text Label 14900 9700 1    50   ~ 10
 COL_GB56
-Text Label 15000 9700 1    50   ~ 0
+Text Label 15000 9700 1    50   ~ 10
 COL_GB57
-Text Label 15100 9700 1    50   ~ 0
+Text Label 15100 9700 1    50   ~ 10
 COL_GB58
-Text Label 15200 9700 1    50   ~ 0
+Text Label 15200 9700 1    50   ~ 10
 COL_GB59
-Text Label 15300 9700 1    50   ~ 0
+Text Label 15300 9700 1    50   ~ 10
 COL_GB60
-Text Label 15400 9700 1    50   ~ 0
+Text Label 15400 9700 1    50   ~ 10
 COL_GB61
-Text Label 15500 9700 1    50   ~ 0
+Text Label 15500 9700 1    50   ~ 10
 COL_GB62
-Text Label 15600 9700 1    50   ~ 0
+Text Label 15600 9700 1    50   ~ 10
 COL_GB63
 Wire Wire Line
 	6900 11800 6900 11700
-Text Label 6900 11700 1    50   ~ 0
+Text Label 6900 11700 1    50   ~ 10
 COL_RB0
 Wire Wire Line
 	7000 11800 7000 11700
@@ -5194,39 +5194,39 @@ Wire Wire Line
 	8300 11800 8300 11700
 Wire Wire Line
 	8400 11800 8400 11700
-Text Label 7000 11700 1    50   ~ 0
+Text Label 7000 11700 1    50   ~ 10
 COL_RB1
-Text Label 7100 11700 1    50   ~ 0
+Text Label 7100 11700 1    50   ~ 10
 COL_RB2
-Text Label 7200 11700 1    50   ~ 0
+Text Label 7200 11700 1    50   ~ 10
 COL_RB3
-Text Label 7300 11700 1    50   ~ 0
+Text Label 7300 11700 1    50   ~ 10
 COL_RB4
-Text Label 7400 11700 1    50   ~ 0
+Text Label 7400 11700 1    50   ~ 10
 COL_RB5
-Text Label 7500 11700 1    50   ~ 0
+Text Label 7500 11700 1    50   ~ 10
 COL_RB6
-Text Label 7600 11700 1    50   ~ 0
+Text Label 7600 11700 1    50   ~ 10
 COL_RB7
-Text Label 7700 11700 1    50   ~ 0
+Text Label 7700 11700 1    50   ~ 10
 COL_RB8
-Text Label 7800 11700 1    50   ~ 0
+Text Label 7800 11700 1    50   ~ 10
 COL_RB9
-Text Label 7900 11700 1    50   ~ 0
+Text Label 7900 11700 1    50   ~ 10
 COL_RB10
-Text Label 8000 11700 1    50   ~ 0
+Text Label 8000 11700 1    50   ~ 10
 COL_RB11
-Text Label 8100 11700 1    50   ~ 0
+Text Label 8100 11700 1    50   ~ 10
 COL_RB12
-Text Label 8200 11700 1    50   ~ 0
+Text Label 8200 11700 1    50   ~ 10
 COL_RB13
-Text Label 8300 11700 1    50   ~ 0
+Text Label 8300 11700 1    50   ~ 10
 COL_RB14
-Text Label 8400 11700 1    50   ~ 0
+Text Label 8400 11700 1    50   ~ 10
 COL_RB15
 Wire Wire Line
 	9300 11800 9300 11700
-Text Label 9300 11700 1    50   ~ 0
+Text Label 9300 11700 1    50   ~ 10
 COL_RB16
 Wire Wire Line
 	9400 11800 9400 11700
@@ -5258,39 +5258,39 @@ Wire Wire Line
 	10700 11800 10700 11700
 Wire Wire Line
 	10800 11800 10800 11700
-Text Label 9400 11700 1    50   ~ 0
+Text Label 9400 11700 1    50   ~ 10
 COL_RB17
-Text Label 9500 11700 1    50   ~ 0
+Text Label 9500 11700 1    50   ~ 10
 COL_RB18
-Text Label 9600 11700 1    50   ~ 0
+Text Label 9600 11700 1    50   ~ 10
 COL_RB19
-Text Label 9700 11700 1    50   ~ 0
+Text Label 9700 11700 1    50   ~ 10
 COL_RB20
-Text Label 9800 11700 1    50   ~ 0
+Text Label 9800 11700 1    50   ~ 10
 COL_RB21
-Text Label 9900 11700 1    50   ~ 0
+Text Label 9900 11700 1    50   ~ 10
 COL_RB22
-Text Label 10000 11700 1    50   ~ 0
+Text Label 10000 11700 1    50   ~ 10
 COL_RB23
-Text Label 10100 11700 1    50   ~ 0
+Text Label 10100 11700 1    50   ~ 10
 COL_RB24
-Text Label 10200 11700 1    50   ~ 0
+Text Label 10200 11700 1    50   ~ 10
 COL_RB25
-Text Label 10300 11700 1    50   ~ 0
+Text Label 10300 11700 1    50   ~ 10
 COL_RB26
-Text Label 10400 11700 1    50   ~ 0
+Text Label 10400 11700 1    50   ~ 10
 COL_RB27
-Text Label 10500 11700 1    50   ~ 0
+Text Label 10500 11700 1    50   ~ 10
 COL_RB28
-Text Label 10600 11700 1    50   ~ 0
+Text Label 10600 11700 1    50   ~ 10
 COL_RB29
-Text Label 10700 11700 1    50   ~ 0
+Text Label 10700 11700 1    50   ~ 10
 COL_RB30
-Text Label 10800 11700 1    50   ~ 0
+Text Label 10800 11700 1    50   ~ 10
 COL_RB31
 Wire Wire Line
 	11700 11800 11700 11700
-Text Label 11700 11700 1    50   ~ 0
+Text Label 11700 11700 1    50   ~ 10
 COL_RB32
 Wire Wire Line
 	11800 11800 11800 11700
@@ -5322,39 +5322,39 @@ Wire Wire Line
 	13100 11800 13100 11700
 Wire Wire Line
 	13200 11800 13200 11700
-Text Label 11800 11700 1    50   ~ 0
+Text Label 11800 11700 1    50   ~ 10
 COL_RB33
-Text Label 11900 11700 1    50   ~ 0
+Text Label 11900 11700 1    50   ~ 10
 COL_RB34
-Text Label 12000 11700 1    50   ~ 0
+Text Label 12000 11700 1    50   ~ 10
 COL_RB35
-Text Label 12100 11700 1    50   ~ 0
+Text Label 12100 11700 1    50   ~ 10
 COL_RB36
-Text Label 12200 11700 1    50   ~ 0
+Text Label 12200 11700 1    50   ~ 10
 COL_RB37
-Text Label 12300 11700 1    50   ~ 0
+Text Label 12300 11700 1    50   ~ 10
 COL_RB38
-Text Label 12400 11700 1    50   ~ 0
+Text Label 12400 11700 1    50   ~ 10
 COL_RB39
-Text Label 12500 11700 1    50   ~ 0
+Text Label 12500 11700 1    50   ~ 10
 COL_RB40
-Text Label 12600 11700 1    50   ~ 0
+Text Label 12600 11700 1    50   ~ 10
 COL_RB41
-Text Label 12700 11700 1    50   ~ 0
+Text Label 12700 11700 1    50   ~ 10
 COL_RB42
-Text Label 12800 11700 1    50   ~ 0
+Text Label 12800 11700 1    50   ~ 10
 COL_RB43
-Text Label 12900 11700 1    50   ~ 0
+Text Label 12900 11700 1    50   ~ 10
 COL_RB44
-Text Label 13000 11700 1    50   ~ 0
+Text Label 13000 11700 1    50   ~ 10
 COL_RB45
-Text Label 13100 11700 1    50   ~ 0
+Text Label 13100 11700 1    50   ~ 10
 COL_RB46
-Text Label 13200 11700 1    50   ~ 0
+Text Label 13200 11700 1    50   ~ 10
 COL_RB47
 Wire Wire Line
 	14100 11800 14100 11700
-Text Label 14100 11700 1    50   ~ 0
+Text Label 14100 11700 1    50   ~ 10
 COL_RB48
 Wire Wire Line
 	14200 11800 14200 11700
@@ -5386,35 +5386,35 @@ Wire Wire Line
 	15500 11800 15500 11700
 Wire Wire Line
 	15600 11800 15600 11700
-Text Label 14200 11700 1    50   ~ 0
+Text Label 14200 11700 1    50   ~ 10
 COL_RB49
-Text Label 14300 11700 1    50   ~ 0
+Text Label 14300 11700 1    50   ~ 10
 COL_RB50
-Text Label 14400 11700 1    50   ~ 0
+Text Label 14400 11700 1    50   ~ 10
 COL_RB51
-Text Label 14500 11700 1    50   ~ 0
+Text Label 14500 11700 1    50   ~ 10
 COL_RB52
-Text Label 14600 11700 1    50   ~ 0
+Text Label 14600 11700 1    50   ~ 10
 COL_RB53
-Text Label 14700 11700 1    50   ~ 0
+Text Label 14700 11700 1    50   ~ 10
 COL_RB54
-Text Label 14800 11700 1    50   ~ 0
+Text Label 14800 11700 1    50   ~ 10
 COL_RB55
-Text Label 14900 11700 1    50   ~ 0
+Text Label 14900 11700 1    50   ~ 10
 COL_RB56
-Text Label 15000 11700 1    50   ~ 0
+Text Label 15000 11700 1    50   ~ 10
 COL_RB57
-Text Label 15100 11700 1    50   ~ 0
+Text Label 15100 11700 1    50   ~ 10
 COL_RB58
-Text Label 15200 11700 1    50   ~ 0
+Text Label 15200 11700 1    50   ~ 10
 COL_RB59
-Text Label 15300 11700 1    50   ~ 0
+Text Label 15300 11700 1    50   ~ 10
 COL_RB60
-Text Label 15400 11700 1    50   ~ 0
+Text Label 15400 11700 1    50   ~ 10
 COL_RB61
-Text Label 15500 11700 1    50   ~ 0
+Text Label 15500 11700 1    50   ~ 10
 COL_RB62
-Text Label 15600 11700 1    50   ~ 0
+Text Label 15600 11700 1    50   ~ 10
 COL_RB63
 Wire Wire Line
 	6900 13800 6900 13700
@@ -5544,132 +5544,132 @@ Wire Wire Line
 	15500 13800 15500 13700
 Wire Wire Line
 	15600 13800 15600 13700
-Text Label 15600 13700 1    50   ~ 0
+Text Label 15600 13700 1    50   ~ 10
 COL_BB63
-Text Label 15500 13700 1    50   ~ 0
+Text Label 15500 13700 1    50   ~ 10
 COL_BB62
-Text Label 15400 13700 1    50   ~ 0
+Text Label 15400 13700 1    50   ~ 10
 COL_BB61
-Text Label 15300 13700 1    50   ~ 0
+Text Label 15300 13700 1    50   ~ 10
 COL_BB60
-Text Label 15200 13700 1    50   ~ 0
+Text Label 15200 13700 1    50   ~ 10
 COL_BB59
-Text Label 15100 13700 1    50   ~ 0
+Text Label 15100 13700 1    50   ~ 10
 COL_BB58
-Text Label 15000 13700 1    50   ~ 0
+Text Label 15000 13700 1    50   ~ 10
 COL_BB57
-Text Label 14900 13700 1    50   ~ 0
+Text Label 14900 13700 1    50   ~ 10
 COL_BB56
-Text Label 14800 13700 1    50   ~ 0
+Text Label 14800 13700 1    50   ~ 10
 COL_BB55
-Text Label 14700 13700 1    50   ~ 0
+Text Label 14700 13700 1    50   ~ 10
 COL_BB54
-Text Label 14600 13700 1    50   ~ 0
+Text Label 14600 13700 1    50   ~ 10
 COL_BB53
-Text Label 14500 13700 1    50   ~ 0
+Text Label 14500 13700 1    50   ~ 10
 COL_BB52
-Text Label 14400 13700 1    50   ~ 0
+Text Label 14400 13700 1    50   ~ 10
 COL_BB51
-Text Label 14300 13700 1    50   ~ 0
+Text Label 14300 13700 1    50   ~ 10
 COL_BB50
-Text Label 14200 13700 1    50   ~ 0
+Text Label 14200 13700 1    50   ~ 10
 COL_BB49
-Text Label 14100 13700 1    50   ~ 0
+Text Label 14100 13700 1    50   ~ 10
 COL_BB48
-Text Label 13200 13700 1    50   ~ 0
+Text Label 13200 13700 1    50   ~ 10
 COL_BB47
-Text Label 13100 13700 1    50   ~ 0
+Text Label 13100 13700 1    50   ~ 10
 COL_BB46
-Text Label 13000 13700 1    50   ~ 0
+Text Label 13000 13700 1    50   ~ 10
 COL_BB45
-Text Label 12900 13700 1    50   ~ 0
+Text Label 12900 13700 1    50   ~ 10
 COL_BB44
-Text Label 12800 13700 1    50   ~ 0
+Text Label 12800 13700 1    50   ~ 10
 COL_BB43
-Text Label 12700 13700 1    50   ~ 0
+Text Label 12700 13700 1    50   ~ 10
 COL_BB42
-Text Label 12600 13700 1    50   ~ 0
+Text Label 12600 13700 1    50   ~ 10
 COL_BB41
-Text Label 12500 13700 1    50   ~ 0
+Text Label 12500 13700 1    50   ~ 10
 COL_BB40
-Text Label 12400 13700 1    50   ~ 0
+Text Label 12400 13700 1    50   ~ 10
 COL_BB39
-Text Label 12300 13700 1    50   ~ 0
+Text Label 12300 13700 1    50   ~ 10
 COL_BB38
-Text Label 12200 13700 1    50   ~ 0
+Text Label 12200 13700 1    50   ~ 10
 COL_BB37
-Text Label 12100 13700 1    50   ~ 0
+Text Label 12100 13700 1    50   ~ 10
 COL_BB36
-Text Label 12000 13700 1    50   ~ 0
+Text Label 12000 13700 1    50   ~ 10
 COL_BB35
-Text Label 11900 13700 1    50   ~ 0
+Text Label 11900 13700 1    50   ~ 10
 COL_BB34
-Text Label 11800 13700 1    50   ~ 0
+Text Label 11800 13700 1    50   ~ 10
 COL_BB33
-Text Label 11700 13700 1    50   ~ 0
+Text Label 11700 13700 1    50   ~ 10
 COL_BB32
-Text Label 10800 13700 1    50   ~ 0
+Text Label 10800 13700 1    50   ~ 10
 COL_BB31
-Text Label 10700 13700 1    50   ~ 0
+Text Label 10700 13700 1    50   ~ 10
 COL_BB30
-Text Label 10600 13700 1    50   ~ 0
+Text Label 10600 13700 1    50   ~ 10
 COL_BB29
-Text Label 10500 13700 1    50   ~ 0
+Text Label 10500 13700 1    50   ~ 10
 COL_BB28
-Text Label 10400 13700 1    50   ~ 0
+Text Label 10400 13700 1    50   ~ 10
 COL_BB27
-Text Label 10300 13700 1    50   ~ 0
+Text Label 10300 13700 1    50   ~ 10
 COL_BB26
-Text Label 10200 13700 1    50   ~ 0
+Text Label 10200 13700 1    50   ~ 10
 COL_BB25
-Text Label 10100 13700 1    50   ~ 0
+Text Label 10100 13700 1    50   ~ 10
 COL_BB24
-Text Label 10000 13700 1    50   ~ 0
+Text Label 10000 13700 1    50   ~ 10
 COL_BB23
-Text Label 9900 13700 1    50   ~ 0
+Text Label 9900 13700 1    50   ~ 10
 COL_BB22
-Text Label 9800 13700 1    50   ~ 0
+Text Label 9800 13700 1    50   ~ 10
 COL_BB21
-Text Label 9700 13700 1    50   ~ 0
+Text Label 9700 13700 1    50   ~ 10
 COL_BB20
-Text Label 9600 13700 1    50   ~ 0
+Text Label 9600 13700 1    50   ~ 10
 COL_BB19
-Text Label 9500 13700 1    50   ~ 0
+Text Label 9500 13700 1    50   ~ 10
 COL_BB18
-Text Label 9400 13700 1    50   ~ 0
+Text Label 9400 13700 1    50   ~ 10
 COL_BB17
-Text Label 9300 13700 1    50   ~ 0
+Text Label 9300 13700 1    50   ~ 10
 COL_BB16
-Text Label 8400 13700 1    50   ~ 0
+Text Label 8400 13700 1    50   ~ 10
 COL_BB15
-Text Label 8300 13700 1    50   ~ 0
+Text Label 8300 13700 1    50   ~ 10
 COL_BB14
-Text Label 8200 13700 1    50   ~ 0
+Text Label 8200 13700 1    50   ~ 10
 COL_BB13
-Text Label 8100 13700 1    50   ~ 0
+Text Label 8100 13700 1    50   ~ 10
 COL_BB12
-Text Label 8000 13700 1    50   ~ 0
+Text Label 8000 13700 1    50   ~ 10
 COL_BB11
-Text Label 7900 13700 1    50   ~ 0
+Text Label 7900 13700 1    50   ~ 10
 COL_BB10
-Text Label 7800 13700 1    50   ~ 0
+Text Label 7800 13700 1    50   ~ 10
 COL_BB9
-Text Label 7700 13700 1    50   ~ 0
+Text Label 7700 13700 1    50   ~ 10
 COL_BB8
-Text Label 7600 13700 1    50   ~ 0
+Text Label 7600 13700 1    50   ~ 10
 COL_BB7
-Text Label 7500 13700 1    50   ~ 0
+Text Label 7500 13700 1    50   ~ 10
 COL_BB6
-Text Label 7400 13700 1    50   ~ 0
+Text Label 7400 13700 1    50   ~ 10
 COL_BB5
-Text Label 7300 13700 1    50   ~ 0
+Text Label 7300 13700 1    50   ~ 10
 COL_BB4
-Text Label 7200 13700 1    50   ~ 0
+Text Label 7200 13700 1    50   ~ 10
 COL_BB3
-Text Label 7100 13700 1    50   ~ 0
+Text Label 7100 13700 1    50   ~ 10
 COL_BB2
-Text Label 7000 13700 1    50   ~ 0
+Text Label 7000 13700 1    50   ~ 10
 COL_BB1
-Text Label 6900 13700 1    50   ~ 0
+Text Label 6900 13700 1    50   ~ 10
 COL_BB0
 $EndSCHEMATC
