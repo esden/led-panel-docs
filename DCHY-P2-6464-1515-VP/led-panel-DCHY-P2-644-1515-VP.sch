@@ -3877,9 +3877,9 @@ Wire Wire Line
 Text Label 3700 11200 2    50   ~ 10
 ~ROW8-15EN
 Text Label 3700 13000 2    50   ~ 10
-~ROW16-24EN
+~ROW16-23EN
 Text Label 3700 14800 2    50   ~ 10
-~ROW25-32EN
+~ROW24-31EN
 Wire Wire Line
 	4800 1100 4900 1100
 Wire Wire Line
@@ -4056,21 +4056,21 @@ Wire Wire Line
 	4800 11100 4900 11100
 Wire Wire Line
 	4800 11200 4900 11200
-Text Label 4900 10500 0    50   ~ 10
-ROW_B9
 Text Label 4900 10600 0    50   ~ 10
-ROW_B10
+ROW_B9
 Text Label 4900 10700 0    50   ~ 10
-ROW_B11
+ROW_B10
 Text Label 4900 10800 0    50   ~ 10
-ROW_B12
+ROW_B11
 Text Label 4900 10900 0    50   ~ 10
-ROW_B13
+ROW_B12
 Text Label 4900 11000 0    50   ~ 10
-ROW_B14
+ROW_B13
 Text Label 4900 11100 0    50   ~ 10
-ROW_B15
+ROW_B14
 Text Label 4900 11200 0    50   ~ 10
+ROW_B15
+Text Label 4900 12300 0    50   ~ 10
 ROW_B16
 Wire Wire Line
 	4800 12300 4900 12300
@@ -4088,21 +4088,21 @@ Wire Wire Line
 	4800 12900 4900 12900
 Wire Wire Line
 	4800 13000 4900 13000
-Text Label 4900 12300 0    50   ~ 10
-ROW_B17
 Text Label 4900 12400 0    50   ~ 10
-ROW_B18
+ROW_B17
 Text Label 4900 12500 0    50   ~ 10
-ROW_B19
+ROW_B18
 Text Label 4900 12600 0    50   ~ 10
-ROW_B20
+ROW_B19
 Text Label 4900 12700 0    50   ~ 10
-ROW_B21
+ROW_B20
 Text Label 4900 12800 0    50   ~ 10
-ROW_B22
+ROW_B21
 Text Label 4900 12900 0    50   ~ 10
-ROW_B23
+ROW_B22
 Text Label 4900 13000 0    50   ~ 10
+ROW_B23
+Text Label 4900 14100 0    50   ~ 10
 ROW_B24
 Wire Wire Line
 	4800 14100 4900 14100
@@ -4120,22 +4120,20 @@ Wire Wire Line
 	4800 14700 4900 14700
 Wire Wire Line
 	4800 14800 4900 14800
-Text Label 4900 14100 0    50   ~ 10
-ROW_B25
 Text Label 4900 14200 0    50   ~ 10
-ROW_B26
+ROW_B25
 Text Label 4900 14300 0    50   ~ 10
-ROW_B27
+ROW_B26
 Text Label 4900 14400 0    50   ~ 10
-ROW_B28
+ROW_B27
 Text Label 4900 14500 0    50   ~ 10
-ROW_B29
+ROW_B28
 Text Label 4900 14600 0    50   ~ 10
-ROW_B30
+ROW_B29
 Text Label 4900 14700 0    50   ~ 10
-ROW_B31
+ROW_B30
 Text Label 4900 14800 0    50   ~ 10
-ROW_B32
+ROW_B31
 Wire Wire Line
 	6900 2050 6900 1950
 Text Label 6900 1950 1    50   ~ 10
