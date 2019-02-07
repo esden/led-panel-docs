@@ -2579,7 +2579,7 @@ Wire Wire Line
 Wire Wire Line
 	10700 10900 11200 10900
 Text Label 15700 10900 0    50   ~ 10
-G0out
+G1out
 $Comp
 L led-panel-chipset:FM6126 RU2
 U 1 1 5C73CACB
@@ -2977,7 +2977,7 @@ Wire Wire Line
 Wire Wire Line
 	10700 12900 11200 12900
 Text Label 15700 12900 0    50   ~ 10
-R0out
+R1out
 $Comp
 L led-panel-chipset:FM6126 BU2
 U 1 1 5C73CB9C
@@ -3375,7 +3375,7 @@ Wire Wire Line
 Wire Wire Line
 	10700 14900 11200 14900
 Text Label 15700 14900 0    50   ~ 10
-B0out
+B1out
 $Comp
 L led-panel-chipset:TC7258E T1
 U 1 1 5CAC5136
