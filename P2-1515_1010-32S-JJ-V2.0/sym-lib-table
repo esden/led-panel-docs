@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name led-panel-chipset)(type Legacy)(uri ${KIPRJMOD}/led-panel-chipset.lib)(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICN2012
+D ChipOne LED Row driver
+$ENDCMP
+#
+$CMP ICN2037
+D ChipOne Simple Led Driver shift register
+$ENDCMP
+#
+#End Doc Library
